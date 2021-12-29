@@ -91,3 +91,6 @@ sw.*
 
 # Lighthouse
 .lighthouseci
+
+# Yarn
+.lock
