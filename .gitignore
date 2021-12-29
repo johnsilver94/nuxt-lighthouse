@@ -93,4 +93,4 @@ sw.*
 .lighthouseci
 
 # Yarn
-.lock
+*.lock
